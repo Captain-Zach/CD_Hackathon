@@ -9,9 +9,10 @@ function App() {
   // TESTING BRANCHES!!!
   return (
     <>
+    <h1>Hello world.</h1>
     <Router>
       <Routes>
-        <Route path="/" element={
+        <Route path="/React" element={
           <>
             <NavBar />
             <Intro />
@@ -19,7 +20,7 @@ function App() {
             <Footer />
           </>
         }/>
-        <Route path="/app" element={<UkraineApp/>}/>
+        <Route path="/React/app" element={<UkraineApp/>}/>
       </Routes>
     </Router>
   </>
