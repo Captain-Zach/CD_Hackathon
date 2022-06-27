@@ -19,7 +19,7 @@
     "tailwindcss": "^3.1.4",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://www.grandstand.live/",
+  "homepage": "https://www.grandstand.live/jubilant-engine/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
